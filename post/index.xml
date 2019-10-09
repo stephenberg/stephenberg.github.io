@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Stephen Berg</title>
-    <link>/post/</link>
+    <link>https://stephenberg.github.io/post/</link>
     <description>Recent content in Posts on Stephen Berg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stephenberg.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test post by me</title>
-      <link>/post/test-post-by-me/</link>
+      <link>https://stephenberg.github.io/post/test-post-by-me/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/test-post-by-me/</guid>
+      <guid>https://stephenberg.github.io/post/test-post-by-me/</guid>
       <description>2+2## [1] 4The CLT
 </description>
     </item>
