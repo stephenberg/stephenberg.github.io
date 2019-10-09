@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stephen Berg on Stephen Berg</title>
-    <link>https://stephenberg.github.io/</link>
+    <link>/</link>
     <description>Recent content in Stephen Berg on Stephen Berg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,17 +12,17 @@
     
     <item>
       <title>Test post by me</title>
-      <link>https://stephenberg.github.io/post/test-post-by-me/</link>
+      <link>/post/test-post-by-me/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://stephenberg.github.io/post/test-post-by-me/</guid>
+      <guid>/post/test-post-by-me/</guid>
       <description>
 
 
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;2+2&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## [1] 4&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://stephenberg.github.io/post/2018-10-29-test-post-by-me_files/fig4-5.png&#34; alt=&#34;The CLT&#34; width=&#34;200&#34; height=&#34;200&#34; /&gt;
+&lt;img src=&#34;/post/2018-10-29-test-post-by-me_files/fig4-5.png&#34; alt=&#34;The CLT&#34; width=&#34;200&#34; height=&#34;200&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;The CLT&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -30,10 +30,10 @@
     
     <item>
       <title>Example Page</title>
-      <link>https://stephenberg.github.io/tutorial/example/</link>
+      <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://stephenberg.github.io/tutorial/example/</guid>
+      <guid>/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -49,11 +49,21 @@
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
-      <link>https://stephenberg.github.io/talk/example/</link>
+      <link>/talk/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
-      <guid>https://stephenberg.github.io/talk/example/</guid>
+      <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
 
@@ -74,10 +84,10 @@
     
     <item>
       <title>Slides</title>
-      <link>https://stephenberg.github.io/slides/example-slides/</link>
+      <link>/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stephenberg.github.io/slides/example-slides/</guid>
+      <guid>/slides/example-slides/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
