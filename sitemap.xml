@@ -3,16 +3,7 @@
     
     <url>
     
-      <loc>https://stephenberg.github.io/</loc>
-      <lastmod>2018-10-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://stephenberg.github.io/post/test-post-by-me/</loc>
+      <loc>/</loc>
       <lastmod>2018-10-29T00:00:00+00:00</lastmod>
     </url>
     
@@ -20,7 +11,15 @@
     
     <url>
     
-      <loc>https://stephenberg.github.io/tutorial/example/</loc>
+      <loc>/post/test-post-by-me/</loc>
+      <lastmod>2018-10-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00-05:00</lastmod>
     </url>
     
@@ -28,7 +27,7 @@
     
     <url>
     
-      <loc>https://stephenberg.github.io/tutorial/</loc>
+      <loc>/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00-05:00</lastmod>
     </url>
     
@@ -36,7 +35,15 @@
     
     <url>
     
-      <loc>https://stephenberg.github.io/talk/example/</loc>
+      <loc>/privacy/</loc>
+      <lastmod>2018-06-28T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -44,7 +51,7 @@
     
     <url>
     
-      <loc>https://stephenberg.github.io/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -52,7 +59,7 @@
     
     <url>
     
-      <loc>https://stephenberg.github.io/talk/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -60,31 +67,28 @@
     
     <url>
     
-      <loc>https://stephenberg.github.io/categories/</loc>
-      <priority>0</priority>
+      <loc>/categories/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://stephenberg.github.io/slides/</loc>
-      <priority>0</priority>
+      <loc>/slides/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://stephenberg.github.io/slides/example-slides/</loc>
+      <loc>/slides/example-slides/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://stephenberg.github.io/tags/</loc>
-      <priority>0</priority>
+      <loc>/tags/</loc>
     </url>
     
   

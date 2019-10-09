@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Stephen Berg</title>
-    <link>https://stephenberg.github.io/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Stephen Berg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://stephenberg.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://stephenberg.github.io/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://stephenberg.github.io/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>Biography I am a PhD student in statistics. Here is a link to my cv.</description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>https://stephenberg.github.io/home/cv/</link>
+      <link>/home/cv/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://stephenberg.github.io/home/cv/</guid>
+      <guid>/home/cv/</guid>
       <description>CV Fall 2019</description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>https://stephenberg.github.io/home/software/</link>
+      <link>/home/software/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://stephenberg.github.io/home/software/</guid>
+      <guid>/home/software/</guid>
       <description>GitHub
  The automultinomial package, for regression models (similar to logistic regression) of spatially correlated discrete data. Vignette with detailed description and guide to use. Available for download on cran and GitHub  The bcd package. This is a c++ implementation (with R wrappers via Rcpp) of block coordinate descent for fitting group lasso penalized linear (logistic, multinomial, Poisson, multiresponse linear) regression models. It supports the overlapping group lasso without explicit duplication of the columns of the design matrix, and sparse design matrices.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://stephenberg.github.io/home/teaching/</link>
+      <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://stephenberg.github.io/home/teaching/</guid>
+      <guid>/home/teaching/</guid>
       <description>+Graduate student lecturer, Statistics 571 - Statistics for Bioscience I (Fall 2018, Fall 2019)
 +TA, Statistics 301 - Introduction to Statistical Methods (Spring 2015)
 +TA, Statistics 224 - Introductory Statistics for Engineers (Fall 2014)</description>
