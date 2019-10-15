@@ -36,7 +36,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://stephenberg.github.io/home/software/</guid>
-      <description>The automultinomial package, for regression models (similar to logistic regression) of spatially correlated discrete data. Vignette with detailed description and guide to use. Available for download on cran and GitHub  The bcd package. This is a C++ implementation (with R wrappers via Rcpp) of block coordinate descent for fitting group lasso penalized linear (logistic, multinomial, Poisson, multiresponse linear) regression models. It supports the overlapping group lasso without explicit duplication of the columns of the design matrix, and sparse design matrices.</description>
+      <description>GitHub
+ The automultinomial package, for regression models (similar to logistic regression) of spatially correlated discrete data. Vignette with detailed description and guide to use. Available for download on cran and GitHub  The bcd package. This is a C++ implementation (with R wrappers via Rcpp) of block coordinate descent for fitting group lasso penalized linear (logistic, multinomial, Poisson, multiresponse linear) regression models. It supports the overlapping group lasso without explicit duplication of the columns of the design matrix, and sparse design matrices.</description>
     </item>
     
     <item>
