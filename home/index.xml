@@ -31,6 +31,17 @@
     </item>
     
     <item>
+      <title>Manuscripts</title>
+      <link>https://stephenberg.github.io/home/manuscripts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://stephenberg.github.io/home/manuscripts/</guid>
+      <description>Berg, S., Zhu, J., Clayton, M.K. (2019) Control variates and Rao-Blackwellization for deterministic sweep sampling. Under revision. [arXiv]
+ Berg, S., Zhu, J., Clayton, M.K., Shea, M.E., Mladenoff, D.J. (2019) A latent discrete Markov random field approach to identifying and classifying historical forest communities based on spatial multivariate tree species counts. Annals of Applied Statistics, vol. 13 no. 4, pp. 2312&amp;ndash;2340. [pdf]
+ Fernandes-Taylor, S., Berg, S., Gunter, R., Bennett, K.</description>
+    </item>
+    
+    <item>
       <title>Software</title>
       <link>https://stephenberg.github.io/home/software/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
