@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://stephenberg.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,16 @@
     <item>
       <title></title>
       <link>https://stephenberg.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://stephenberg.github.io/home/about/</guid>
-      <description>Biography I am a PhD student in statistics. Here is a link to my cv.</description>
+      <description>Biography I am an assistant professor of statistics at Penn State University. Here is a link to my cv.</description>
     </item>
     
     <item>
       <title>CV</title>
       <link>https://stephenberg.github.io/home/cv/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://stephenberg.github.io/home/cv/</guid>
       <description>CV</description>
@@ -33,7 +33,7 @@
     <item>
       <title>Manuscripts</title>
       <link>https://stephenberg.github.io/home/manuscripts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://stephenberg.github.io/home/manuscripts/</guid>
       <description>Berg, S., Zhu, J., Clayton, M.K. (2019) Control variates and Rao-Blackwellization for deterministic sweep sampling. Under revision. [arXiv]
@@ -44,7 +44,7 @@
     <item>
       <title>Software</title>
       <link>https://stephenberg.github.io/home/software/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://stephenberg.github.io/home/software/</guid>
       <description>GitHub
@@ -54,7 +54,7 @@
     <item>
       <title>Teaching</title>
       <link>https://stephenberg.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://stephenberg.github.io/home/teaching/</guid>
       <description>+Graduate student lecturer, Statistics 571 - Statistics for Bioscience I (Fall 2018, Fall 2019)
@@ -65,7 +65,7 @@
     <item>
       <title>Presentations</title>
       <link>https://stephenberg.github.io/home/presentations/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://stephenberg.github.io/home/presentations/</guid>
       <description> Workshop on Rcpp/RcppEigen for student seminar, UW-Madison, 12/7/2018 (slides) (materials.zip)  </description>

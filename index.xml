@@ -21,7 +21,7 @@
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;2+2&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## [1] 4&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://stephenberg.github.io/post/2018-10-29-test-post-by-me_files/fig4-5.png&#34; alt=&#34;The CLT&#34; width=&#34;200&#34; height=&#34;200&#34; /&gt;
+&lt;img src=&#34;https://stephenberg.github.io/post/2018-10-29-test-post-by-me_files/fig4-5.png&#34; width=&#34;200&#34; height=&#34;200&#34; alt=&#34;&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;The CLT&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -30,7 +30,7 @@
     <item>
       <title>Example Page</title>
       <link>https://stephenberg.github.io/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://stephenberg.github.io/tutorial/example/</guid>
       <description>
@@ -50,7 +50,7 @@
     <item>
       <title>Example Talk</title>
       <link>https://stephenberg.github.io/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://stephenberg.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
