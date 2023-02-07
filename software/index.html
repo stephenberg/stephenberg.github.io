@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Software | A minimal Hugo website</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/research/">Research</a></li>
+      
+      <li><a href="/software/">Software</a></li>
+      
+      <li><a href="/talks/">Talks</a></li>
+      
+      <li><a href="/teaching/">Teaching</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Software</span></h1>
+
+
+</div>
+
+<main>
+<p>I have written two publically available statistical software packages, and I hope to add more in the future.</p>
+<h2 id="ttautomultinomialtt"><tt>automultinomial</tt></h2>
+<p>For regression models (similar to logistic regression) of spatially correlated discrete data.</p>
+<p><a href="/vignette.pdf">User guide</a>
+<a href="https://github.com/stephenberg/automultinomial">GitHub</a></p>
+<figure>
+<img src="/plotk2.png" width="500"/>
+<figcaption> Binary data from an Ising model with spatial correlation (left) and without spatial correlation (right).</figcaption>
+</figure>
+<h2 id="ttbcdtt"><tt>bcd</tt></h2>
+<p>This is a C++ implementation (with R wrappers via Rcpp) of block coordinate descent for fitting group lasso penalized linear (logistic, multinomial, Poisson, multiresponse linear) regression models. It supports the overlapping group lasso without explicit duplication of the columns of the design matrix, and sparse design matrices.</p>
+<p><a href="https://github.com/stephenberg/bcd">GitHub</a>
+<a href="https://github.com/stephenberg/bcd#readme">Readme</a></p>
+
+</main>
+
+  <footer>
+  <script defer src="//yihui.org/js/math-code.js"></script>
+<script defer src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script defer src="//yihui.org/js/center-img.js"></script>
+
+  
+  </footer>
+  </body>
+</html>
+

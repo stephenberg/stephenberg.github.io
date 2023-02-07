@@ -1,0 +1,14 @@
+<p><img src="department-photo.jpg" /></p>
+<div id="about-me" class="section level2" number="0.1">
+<h2><span class="header-section-number">0.1</span> About Me</h2>
+<p>I am an assistant professor of statistics at Penn State University. I joined Penn State in 2020 after receiving my PhD in Statistics from the University of Wisconsin-Madison, where I was advised by Jun Zhu and Murray Clayton. My research focuses on statistical computing problems, particularly related to Markov chain Monte Carlo.</p>
+</div>
+<div id="keep-it-simple-but-not-simpler" class="section level2" number="0.2">
+<h2><span class="header-section-number">0.2</span> <em>Keep it simple, but not simpler</em></h2>
+<p><strong>XMin</strong> is a Hugo theme written by <a href="https://yihui.org">Yihui Xie</a> in about four hours: half an hour was spent on the Hugo templates, and 3.5 hours were spent on styling. The main motivation for writing this theme was to provide a really minimal example to beginners of Hugo templates. This XMin theme contains about 130 lines of code in total, including the code in HTML templates and CSS (also counting empty lines).</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">find</span> . <span class="at">-not</span> <span class="at">-path</span> <span class="st">&#39;*/exampleSite/*&#39;</span> <span class="dt">\(</span> <span class="at">-name</span> <span class="st">&#39;*.html&#39;</span> <span class="at">-o</span> <span class="at">-name</span> <span class="st">&#39;*.css&#39;</span> <span class="dt">\)</span> <span class="kw">|</span> <span class="fu">xargs</span> wc <span class="at">-l</span></span></code></pre></div>
+<p>I can certainly further reduce the code, for example, by eliminating the CSS, but I believe a tiny bit of CSS can greatly improve readability. You cannot really find many CSS frameworks that only contain 50 lines of code.</p>
+<p>Although it is a minimal theme, it is actually fully functional. It supports pages (including the home page), blog posts, a navigation menu, categories, tags, and RSS. With <a href="https://github.com/yihui/hugo-xmin/blob/master/exampleSite/layouts/partials/foot_custom.html">a little bit customization</a>, it can easily support LaTeX math expressions, e.g.,</p>
+<p><code>$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$</code></p>
+<p>All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., <a href="/post/">posts</a>, or <a href="/note/">notes</a>. See the <a href="/about/">About</a> page for the usage of this theme.</p>
+</div>
