@@ -86,7 +86,7 @@ Shea, M.E., Clayton, M.K., Townsend, P.A., Berg, S., Elza, H., Mladenoff, D.J. (
       <guid>https://stephenberg.github.io/software/</guid>
       <description>I have written two publically available statistical software packages, and I hope to add more in the future.
 automultinomial For regression models (similar to logistic regression) of spatially correlated discrete data.
-User guide GitHub
+GitHub User guide
 Binary data from an Ising model with spatial correlation (left) and without spatial correlation (right).bcd This is a C++ implementation (with R wrappers via Rcpp) of block coordinate descent for fitting group lasso penalized linear (logistic, multinomial, Poisson, multiresponse linear) regression models.</description>
     </item>
     
