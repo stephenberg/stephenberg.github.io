@@ -82,9 +82,9 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stephenberg.github.io/research/</guid>
-      <description>Manuscripts Berg, S., &amp;amp; Song, H. (2023). Multivariate moment least-squares estimators for reversible Markov chains. [arXiv]
-Berg, S., &amp;amp; Song, H. (2023). Efficient shape-constrained inference for the autocovariance sequence from a reversible Markov chain. The Annals of Statistics, vol. 51, pp. 2440-2470 [journal] [arXiv]
-Shea, M. E., Mladenoff, D. J., Clayton, M. K., Berg, S., &amp;amp; Elza, H. (2022). Pattern of tree species co-occurrence in an ecotone responds to spatially variable drivers.</description>
+      <description>Manuscripts Song, H., &amp;amp; Berg, S. (2024) Weighted shape-constrained estimation for the autocovariance sequence from a reversible Markov chain. [arXiv]
+Song, H., &amp;amp; Berg, S. (2024, in press). Multivariate moment least-squares variance estimators for reversible Markov chains. Journal of Computational and Graphical Statistics [journal] [arXiv]
+Berg, S., &amp;amp; Song, H. (2023). Efficient shape-constrained inference for the autocovariance sequence from a reversible Markov chain. The Annals of Statistics, vol. 51, pp. 2440-2470 [journal] [arXiv]</description>
     </item>
     
     <item>
@@ -107,9 +107,9 @@ automultinomial For regression models (similar to logistic regression) of spatia
       <guid>https://stephenberg.github.io/talks/</guid>
       <description>Upcoming:
 Past:
-&amp;ndash; JSM 2024 &amp;ldquo;Statistical and computational aspects of shape-constrained inference for covariance function estimation&amp;rdquo;
-&amp;ndash; EAC ISBA 2024
-&amp;ndash; CMStatistics 2023 &amp;ldquo;Statistical and computational aspects of shape-constrained inference for covariance function estimation&amp;rdquo; (December 18, 2023)
+&amp;ndash; JSM 2024 &amp;ldquo;Statistical and computational aspects of shape-constrained inference for covariance function estimation&amp;rdquo; slides
+&amp;ndash; EAC ISBA 2024 (virtual) “Shape-constrained inference for covariance function estimation” (June 26, 2024) slides
+&amp;ndash; CMStatistics 2023 &amp;ldquo;Statistical and computational aspects of shape-constrained inference for covariance function estimation&amp;rdquo; (December 18, 2023) slides
 &amp;ndash; PSU Statistics Graduate Student Association workshop talk (October 12, 2023) slides
 &amp;ndash; SMAC seminar, Penn State Department of Statistics, &amp;ldquo;Statistical and computational aspects of shape-constrained inference for covariance function estimation&amp;rdquo; (September 8, 2023)</description>
     </item>
@@ -120,14 +120,13 @@ Past:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stephenberg.github.io/teaching/</guid>
-      <description>Penn State: Fall 2023: &amp;ndash; Statistics 415 (Introduction to Mathematical Statistics)
+      <description>Penn State: Spring 2025: &amp;ndash; Statistics 540 (Statistical Computing)
+Fall 2024: &amp;ndash;Statistics 414 (Introduction to Probability Theory)
+Spring 2024: &amp;ndash; Statistics 414 (Introduction to Probability Theory) &amp;ndash; Statistics 515 (Stochastic Processes and Monte Carlo Methods)
+Fall 2023: &amp;ndash; Statistics 415 (Introduction to Mathematical Statistics)
 Spring 2023: &amp;ndash; Statistics 415 (Introduction to Mathematical Statistics) &amp;ndash; Statistics 540 (Statistical Computing)
 Fall 2022: &amp;ndash; Statistics 415 (Introduction to Mathematical Statistics)
-Spring 2022: &amp;ndash;Statistics 415 (Introduction to Mathematical Statistics)
-Fall 2021: &amp;ndash;Statistics 414 (Introduction to Probability Theory)
-Spring 2021: &amp;ndash;Statistics 415 (Introduction to Mathematical Statistics)
-Fall 2020: &amp;ndash;Statistics 414 (Introduction to Probability Theory)
-UW-Madison (as a PhD student): &amp;ndash; Graduate student lecturer, Statistics 571 - Statistics for Bioscience I (Fall 2018, Fall 2019) &amp;ndash; TA, Statistics 301 - Introduction to Statistical Methods (Spring 2015) &amp;ndash; TA, Statistics 224 - Introductory Statistics for Engineers (Fall 2014)</description>
+Spring 2022: &amp;ndash;Statistics 415 (Introduction to Mathematical Statistics)</description>
     </item>
     
   </channel>
